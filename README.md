@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EvertonSousaCG
 - Pós-Graduando em Machine Learning Aplicado à Análise de Dados
 - 👀 I’m em busca de uma transição carreira e em a procura de uma vaga como Desenvolvedor Junior
-- 🌱 I’m currently learning -   Algoritmos e Lógica de Programação, C, C++, Python, C#, Java 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning -   Algoritmos e Lógica de Programação, C, C++, Python, C#, Java
+- 💞️ I’m looking to collaborate on com  todos da comunidade
 - 📫 How to reach me 
 -  joseevertonmarquesdesousa@gmail.com
 - Instagram: @evertonsousacg
