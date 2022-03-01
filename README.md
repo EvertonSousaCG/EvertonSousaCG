@@ -8,7 +8,6 @@
 - Instagram: @evertonsousacg
 - Facebook: evertonsousacg
 - Linkedin: https://www.linkedin.com/in/everton-sousa-b7237b119/
--
 
 <!---
 EvertonSousaCG/EvertonSousaCG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
