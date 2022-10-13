@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @EvertonSousaCG
-- Pós-Graduando em Machine Learning Aplicado à Análise de Dados
-- 👀 I’m em busca de uma transição carreira e em a procura de uma vaga como Desenvolvedor Junior
+- 👋 Eu, Sou Everton Sousa
+- 👀 I’m em busca de uma transição carreira e a procura de uma vaga como Desenvolvedor Junior
 - 🌱 Curso Algoritmos e Lógica de Programação 2022 - ministrado por Nelio Alves na plataforma Udemy
 - 🌱 Curso Desenvolvimento Web - Programador Br - Ministrado  por  Igor Oliveira na plataforma  Hotmart
-- 💞️ Espero poder collaborate on com  todos da comunidade
-- 📫 How to reach me 
+- 💞️ Espero poder collaborar on com  todos da comunidade
+- 📫 Como chegar até mim
 -  joseevertonmarquesdesousa@gmail.com
 - Instagram: @evertonsousacg
 - Facebook: evertonsousacg
