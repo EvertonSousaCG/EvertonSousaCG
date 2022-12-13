@@ -4,9 +4,7 @@
 - 🌱 Curso Desenvolvimento Web Full Stack 2022 - Programador Br - Ministrado por Igor Oliveira na plataforma  Hotmart
 - 💞️ Espero poder collaborar on com  todos da comunidade
 - 📫 Como chegar até mim
--  joseevertonmarquesdesousa@gmail.com
-- Instagram: @evertonsousacg
-- Facebook: evertonsousacg
+-  joseevertonmarquesdesousa2@gmail.com
 - Linkedin: https://www.linkedin.com/in/evertonmsousa/
 
 <!---
