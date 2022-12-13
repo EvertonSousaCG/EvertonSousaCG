@@ -1,13 +1,13 @@
 - 👋 Eu, Sou Everton Sousa
 - 👀 Estou em busca de uma transição carreira e a procura de uma vaga como Desenvolvedor Junior
 - 🌱 Curso Algoritmos e Lógica de Programação 2022 - ministrado por Nelio Alves na plataforma Udemy
-- 🌱 Curso Desenvolvimento Web - Programador Br - Ministrado  por  Igor Oliveira na plataforma  Hotmart
+- 🌱 Curso Desenvolvimento Web Full Stack 2022 - Programador Br - Ministrado por Igor Oliveira na plataforma  Hotmart
 - 💞️ Espero poder collaborar on com  todos da comunidade
 - 📫 Como chegar até mim
 -  joseevertonmarquesdesousa@gmail.com
 - Instagram: @evertonsousacg
 - Facebook: evertonsousacg
-- Linkedin: https://www.linkedin.com/in/everton-m-sousa-379884253/
+- Linkedin: https://www.linkedin.com/in/evertonmsousa/
 
 <!---
 EvertonSousaCG/EvertonSousaCG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
